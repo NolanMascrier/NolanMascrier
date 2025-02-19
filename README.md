@@ -1,4 +1,6 @@
-## Hi there 👋
+I am Nolan Mascrier, french programmer and student of 42 School. 
+
+## Languages
 
 <!--
 **NolanMascrier/NolanMascrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
